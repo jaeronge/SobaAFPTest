@@ -1,0 +1,73 @@
+[Fri Sep  2 12:11:08.235 2011] [16126] accepting connections
+[Fri Sep  2 14:30:07.379 2011] [16126] rotating indices (seamless=1)
+[Fri Sep  2 14:30:07.414 2011] [16126] rotating index 'orgltarget_core': success
+[Fri Sep  2 14:30:07.417 2011] [16126] rotating finished
+[Fri Sep  2 14:30:29.771 2011] [16126] caught SIGTERM, shutting down
+[Fri Sep  2 14:30:29.772 2011] [16126] shutdown complete
+[Fri Sep  2 14:30:34.702 2011] [16237] accepting connections
+[Fri Sep  2 16:50:37.651 2011] [16237] rotating indices (seamless=1)
+[Fri Sep  2 16:50:37.683 2011] [16237] rotating index 'orgltarget_core': success
+[Fri Sep  2 16:50:37.684 2011] [16237] rotating finished
+[Fri Sep  2 17:39:43.851 2011] [16237] caught SIGTERM, shutting down
+[Fri Sep  2 17:39:43.852 2011] [16237] shutdown complete
+[Fri Sep  2 17:40:06.185 2011] [16480] accepting connections
+[Fri Sep  2 17:40:38.611 2011] [16480] caught SIGTERM, shutting down
+[Fri Sep  2 17:40:38.612 2011] [16480] shutdown complete
+[Fri Sep  2 17:40:54.179 2011] [16504] accepting connections
+[Mon Sep  5 11:22:08.965 2011] [16504] rotating indices (seamless=1)
+[Mon Sep  5 11:22:09.003 2011] [16504] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:22:09.005 2011] [16504] rotating finished
+[Mon Sep  5 11:30:42.343 2011] [16504] rotating indices (seamless=1)
+[Mon Sep  5 11:30:42.375 2011] [16504] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:30:42.376 2011] [16504] rotating finished
+[Mon Sep  5 11:30:59.819 2011] [16504] caught SIGTERM, shutting down
+[Mon Sep  5 11:30:59.820 2011] [16504] shutdown complete
+[Mon Sep  5 11:31:03.788 2011] [ 3827] accepting connections
+[Mon Sep  5 11:32:58.828 2011] [ 3827] rotating indices (seamless=1)
+[Mon Sep  5 11:32:58.862 2011] [ 3827] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:32:58.863 2011] [ 3827] rotating finished
+[Mon Sep  5 11:33:08.899 2011] [ 3827] caught SIGTERM, shutting down
+[Mon Sep  5 11:33:08.900 2011] [ 3827] shutdown complete
+[Mon Sep  5 11:33:13.248 2011] [ 3869] accepting connections
+[Mon Sep  5 11:50:51.017 2011] [ 3869] rotating indices (seamless=1)
+[Mon Sep  5 11:50:51.047 2011] [ 3869] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:50:51.048 2011] [ 3869] rotating finished
+[Mon Sep  5 11:51:07.149 2011] [ 3869] rotating indices (seamless=1)
+[Mon Sep  5 11:51:07.179 2011] [ 3869] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:51:07.180 2011] [ 3869] rotating finished
+[Mon Sep  5 11:51:28.525 2011] [ 3869] rotating indices (seamless=1)
+[Mon Sep  5 11:51:28.557 2011] [ 3869] rotating index 'orgltarget_core': success
+[Mon Sep  5 11:51:28.557 2011] [ 3869] rotating finished
+[Mon Sep  5 11:51:36.068 2011] [ 3869] caught SIGTERM, shutting down
+[Mon Sep  5 11:51:36.070 2011] [ 3869] shutdown complete
+[Mon Sep  5 11:51:39.813 2011] [ 6151] accepting connections
+[Mon Sep  5 12:20:56.577 2011] [ 6151] rotating indices (seamless=1)
+[Mon Sep  5 12:20:56.610 2011] [ 6151] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:20:56.611 2011] [ 6151] rotating finished
+[Mon Sep  5 12:21:30.034 2011] [ 6151] rotating indices (seamless=1)
+[Mon Sep  5 12:21:30.064 2011] [ 6151] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:21:30.065 2011] [ 6151] rotating finished
+[Mon Sep  5 12:21:44.559 2011] [ 6151] caught SIGTERM, shutting down
+[Mon Sep  5 12:21:44.560 2011] [ 6151] shutdown complete
+[Mon Sep  5 12:21:47.955 2011] [ 9471] accepting connections
+[Mon Sep  5 12:25:35.726 2011] [ 9471] rotating indices (seamless=1)
+[Mon Sep  5 12:25:35.758 2011] [ 9471] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:25:35.759 2011] [ 9471] rotating finished
+[Mon Sep  5 12:25:57.410 2011] [ 9471] rotating indices (seamless=1)
+[Mon Sep  5 12:25:57.443 2011] [ 9471] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:25:57.444 2011] [ 9471] rotating finished
+[Mon Sep  5 12:26:02.861 2011] [ 9471] caught SIGTERM, shutting down
+[Mon Sep  5 12:26:02.862 2011] [ 9471] shutdown complete
+[Mon Sep  5 12:26:07.015 2011] [ 9514] accepting connections
+[Mon Sep  5 12:32:17.141 2011] [ 9514] rotating indices (seamless=1)
+[Mon Sep  5 12:32:17.172 2011] [ 9514] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:32:17.173 2011] [ 9514] rotating finished
+[Mon Sep  5 12:32:48.733 2011] [ 9514] caught SIGTERM, shutting down
+[Mon Sep  5 12:32:48.734 2011] [ 9514] shutdown complete
+[Mon Sep  5 12:32:52.053 2011] [ 9907] accepting connections
+[Mon Sep  5 12:33:41.910 2011] [ 9907] rotating indices (seamless=1)
+[Mon Sep  5 12:33:41.944 2011] [ 9907] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:33:41.945 2011] [ 9907] rotating finished
+[Mon Sep  5 12:36:38.280 2011] [ 9907] rotating indices (seamless=1)
+[Mon Sep  5 12:36:38.316 2011] [ 9907] rotating index 'orgltarget_core': success
+[Mon Sep  5 12:36:38.317 2011] [ 9907] rotating finished

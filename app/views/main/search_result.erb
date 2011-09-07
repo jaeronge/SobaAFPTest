@@ -1,0 +1,16 @@
+
+<div>
+<button id="back_btn" onclick="location.replace('/main/main')">back</button><button id="save_file" onclick="save_file();">save file</button>
+</div>
+<%
+  conv = Iconv.new('EUC-KR', 'UTF-8')
+%>
+<%= @key_count %>
+<textarea id="song_keyward" rows="40" cols="30"><%= @key_string %></textarea>
+
+<textarea id="target_area2" rows="40" cols="100"><%= @result_string %></textarea>
+<%= @result_count %>
+<textarea id="md5_area" rows="40" cols="50" style="display: none;" ><%= @result_md5 %></textarea>
+<input type="hidden" id="len_val" value="<%= @len_val %>" />
+<input type="hidden" id="limit_val" value="<%= @limit_val %>" />
+
